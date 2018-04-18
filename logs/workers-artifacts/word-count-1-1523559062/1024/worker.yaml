@@ -1,0 +1,4 @@
+worker-id: 8081fe1f-5b20-4f89-a7f6-0be3eba0fc8f
+logs.users: []
+logs.groups: []
+topology.submitter.user: amirj
